@@ -1,4 +1,4 @@
-![Alt Text](URL)
+![Alt Text](SupplyandDemandofSupermarketSales.png)
 
 Introduction
 Welcome to the Supermarket Sales Analysis project! This Power BI dashboard provides comprehensive insights into the supply and demand dynamics of supermarket sales. By analyzing sales data, inventory levels, and customer behavior, this dashboard aims to optimize inventory management and maximize sales revenue.

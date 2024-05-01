@@ -1,5 +1,5 @@
 ![Alt Text](SupplyandDemandofSupermarketSales.png)
-![Alt Text](CityandPaymentaccordingtoGenderandProductLine Selected.png)
+![Alt Text](CityandPaymentaccordingtoGenderandProductLineSelected.png)
 
 
 Introduction
